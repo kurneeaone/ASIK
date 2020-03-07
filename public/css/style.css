@@ -1,0 +1,21 @@
+::-webkit-input-placeholder {
+    font-style: italic;
+ }
+ :-moz-placeholder {
+    font-style: italic;  
+ }
+ ::-moz-placeholder {
+    font-style: italic;  
+ }
+ :-ms-input-placeholder {  
+    font-style: italic; 
+ }
+
+ @media (max-width:800px){
+    div.lulus{
+       text-align: center;
+    }
+    div.lulus h5{
+       text-align: left;
+    }
+ }
